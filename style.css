@@ -372,7 +372,7 @@ section {
 @media (min-width: 40em) {
 
 .waviy{
-     visibility: hidden;
+     display: none;
 }
 
 .line {
@@ -436,8 +436,8 @@ section {
      }
 
      .wrap{
-          visibility: hidden;
-     }
+          display: none;
+          }
 
      .waviy {
           position: relative;
