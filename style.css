@@ -168,7 +168,7 @@ header {
           position: fixed;
           z-index: 9999;
           background-color: transparent;
-          background: url('Assets/icon-hamburger.svg');
+          background: url('assets/icon-hamburger.svg');
           background-repeat: no-repeat;
           border: 0;
           width: 2rem;
@@ -178,7 +178,7 @@ header {
      }
 
      .mobile-nav-toggle[aria-expanded="true"] {
-          background-image: url('Assets/icon-close.svg');
+          background-image: url('assets/icon-close.svg');
           position: fixed;
      }
 
